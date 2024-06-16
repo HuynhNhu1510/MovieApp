@@ -1,0 +1,6 @@
+com.example.movieapp.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\ACER\.gradle\caches\transforms-3\4c656ec7ce3b687aefcbec6e156dfaaf\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.movieapp.test.app-jetified-core-1.5.0-1 C:\Users\ACER\.gradle\caches\transforms-3\d20876e411b360625dd5ae546f820749\transformed\jetified-core-1.5.0\res
+com.example.movieapp.test.app-androidTest-2 D:\Android\MovieApp\MovieApp\app\build\generated\res\resValues\androidTest\debug
+com.example.movieapp.test.app-mergeDebugAndroidTestResources-3 D:\Android\MovieApp\MovieApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.movieapp.test.app-mergeDebugAndroidTestResources-4 D:\Android\MovieApp\MovieApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.movieapp.test.app-debugAndroidTest-5 D:\Android\MovieApp\MovieApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

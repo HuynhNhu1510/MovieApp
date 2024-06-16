@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315464745611",
+    "project_id": "storage-file-eab0a",
+    "storage_bucket": "storage-file-eab0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315464745611:android:4890be94baa23ef8ae4a8e",
+        "android_client_info": {
+          "package_name": "com.example.movieapp.fragment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGVZuEa7ThW39G8IopIIjPyLxqcE-n4n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
